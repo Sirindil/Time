@@ -2,7 +2,7 @@
 // Name        : main.cpp
 // Author      : James Burns
 // Version     : 0.1
-// Copyright   : CC BY
+// Copyright   : MIT License
 // Description : Sample Timeline creation and manipulation in C++
 //============================================================================
 
