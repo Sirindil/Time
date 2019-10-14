@@ -13,7 +13,7 @@ Here's a simple rundown of these three classes:
   - A statement by an NPC
   - A game state flag change
   - A cue to play a sound effect or music
-  - A location discription
+  - A location description
   - Result of a player interaction
   - Result of an NPC interaction
   - Some other creative usage
