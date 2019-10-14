@@ -21,7 +21,7 @@ Here's a simple rundown of these three classes:
 ## class Moment
 * A vector of Events
 * All Events in a Moment occur at the same instant
-* Events can be added to a Moment at any point in the game.
+* Events can be added to a Moment at any point in the game
 
 ## class Timeline
 * A vector of Moments
